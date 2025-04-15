@@ -1,7 +1,7 @@
 # Introduction
-Code for paper: Phase Preservation Neural Network for EEG Classification in RSVP Task in IEEE Transactions on Biomedical Engineering
+Code for paper: [Phase Preservation Neural Network for EEG Classification in RSVP Task](https://ieeexplore.ieee.org/abstract/document/9627637) in [IEEE Transactions on Biomedical Engineering](https://www.embs.org/tbme/)
 
-DOI: 10.1109/TBME.2021.3130917. 
+DOI: [10.1109/TBME.2021.3130917](https://doi.org/10.1109/TBME.2021.3130917)
 
 # Citation
 
